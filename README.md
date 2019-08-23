@@ -1,4 +1,4 @@
-# Star Wars Rep
+# Star Wars Repo
 
 ![./tiefighter.png] (TIE Fighter)
 
